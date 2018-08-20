@@ -18,13 +18,6 @@ On the other hand, xml2json supports complex XML documents with multiple
 nested hierarchies. Lastly, the XML files are not validated at the time of conversion.
 
 
-- Kailash Nadh, June 2013
-- Yigal Lazarev, May 2015
-- License: MIT License
-- Documentation: [http://nadh.in/code/xmlutils.py](http://nadh.in/code/xmlutils.py)
-- Pypi: [https://pypi.python.org/pypi/xmlutils](https://pypi.python.org/pypi/xmlutils)
-
-
 #Installation
 With pip or easy_install
 
